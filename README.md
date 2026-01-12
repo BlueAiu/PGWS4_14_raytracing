@@ -29,6 +29,8 @@
   - xxx
   - xxx
 
+- https://polyhaven.com/a/metal_grate_rusty
+
 ## 進め方
 
 - 本リポジトリ (tpu-game-2025/PGWS4_14_raytracing)をforkしてください
